@@ -1,0 +1,30 @@
+
+#mychart {
+    width: 500px;
+    height: 300px;
+     position: absolute;
+    top: 0;
+    left: 50px;
+    z-index: 1
+}
+#canvas {
+    /*border: 1px dashed rgb(200, 200, 200); */
+
+position: relative;
+left: 70px;
+z-index: 5
+
+}
+#volchar {
+    position: absolute;  
+    top: 340px;    
+    width:90%;
+    max-width: 540px;
+    height:150px;
+}
+#myform {
+position: absolute;
+top:50px;
+left:800px;
+
+}
